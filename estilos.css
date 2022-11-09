@@ -1,0 +1,55 @@
+h1 {
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-weight: bold;
+}
+h2 {
+    font: 12px comic bold;
+}
+body {
+    text-align: center;
+}
+
+.agrupar {
+    background-color: #00cec9;
+    width: 960px;
+    margin: 15px auto;
+    padding: 100px
+
+}
+.cabecera{
+    background-color:#fab1a0;
+    padding: 20px;
+    border: 20px;
+}
+.cabecera h1 {
+    text-align: center;
+}
+.menu{
+    background: #dfe6e9 ;
+    padding: 15px;
+}
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: 14px verdana;
+    display: inline-table;
+}
+.seccion {
+    margin: 50px;
+    border: 1px solid black;
+    width: 300px;
+    float:left
+}
+img {
+    width: 100px;
+}
+.columna{
+    float:left;
+    border: 1px solid black;
+    width:300px;
+    margin:20px
+}
+.pie{
+    clear:both
+}
